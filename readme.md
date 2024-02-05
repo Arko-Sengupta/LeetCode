@@ -1,1 +1,14 @@
-## This is a Repository for general leetcode problems and Contest Solutions!
+
+# Leetcode Problems
+## Easy
+<-- Will Update Soon -->
+
+</br></br></br>
+
+## Medium
+<-- Will Update Soon -->
+
+</br></br></br>
+
+## Hard
+<-- Will Update Soon -->
