@@ -38,7 +38,7 @@ Welcome to LeetCode Solution Repository!
 - Problem 5  [Link to Problem](Hard/problem5_solution.py)
 
 
-## 4. Weekly
+## 4. Weekly Contests
 **Weekly LeetCode Contests Solutions**
 
 - **Contest 1:** [Link to Contest](Weekly)
@@ -48,7 +48,7 @@ Welcome to LeetCode Solution Repository!
    - Problem 4  [Link to Problem](Weekly/problem4_solution.py)
 
 
-## 5. Bi-Weekly
+## 5. Bi-Weekly Contests
 **Bi-Weekly LeetCode Contests Solutions**
 
 - **Contest 1:** [Link to Contest](Bi_Weekly)
