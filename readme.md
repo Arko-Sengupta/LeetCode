@@ -1,5 +1,13 @@
-# LeetCode Solutions
 
+
+# LeetCode Solutions
+</br>
+
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/_arko_sengupta_?theme=dark&font=source_code_pro&extension=null" alt="LeetCode Stats">
+</p>
+
+</br>
 Welcome to LeetCode Solution Repository!
 
 ## 1. Easy
