@@ -17,6 +17,7 @@ Welcome to LeetCode Solution Repository!
 - Problem 2  [Link to Problem](Easy/problem2_solution.py)
 - Problem 3  [Link to Problem](Easy/problem3_solution.py)
 - Problem 4  [Link to Problem](Easy/problem4_solution.py)
+- Problem 5  [Link to Problem](Easy/problem5_solution.py)
 
 ## 2. Medium
 **These are solutions to Medium-Level LeetCode problems**
