@@ -4,7 +4,7 @@
 </br>
 
 <p align="center">
-  <img src="https://leetcode.card.workers.dev/_arko_sengupta_?theme=dark&font=source_code_pro&extension=null" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/_arko_sengupta_?animation=false?theme=dark&font=source_code_pro&extension=null" alt="LeetCode Stats">
 </p>
 
 </br>
