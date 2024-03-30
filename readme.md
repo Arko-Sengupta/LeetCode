@@ -55,6 +55,7 @@ Welcome to LeetCode Solution Repository!
    - Problem 2  [Link to Problem](BiWeekly/problem2_solution.py)
    - Problem 3  [Link to Problem](BiWeekly/problem3_solution.py)
    - Problem 4  [Link to Problem](BiWeekly/problem4_solution.py)
+   - Problem 5  [Link to Problem](BiWeekly/problem5_solution.py)
 
 
 Feel free to explore these solutions and Happy Coding!
