@@ -45,6 +45,7 @@ Welcome to LeetCode Solution Repository!
    - Problem 2  [Link to Problem](Weekly/problem2_solution.py)
    - Problem 3  [Link to Problem](Weekly/problem3_solution.py)
    - Problem 4  [Link to Problem](Weekly/problem4_solution.py)
+   - Problem 5  [Link to Problem](Weekly/problem5_solution.py)
 
 ## 5. Bi-Weekly Contests
 **Bi-Weekly LeetCode Contests Solutions**
