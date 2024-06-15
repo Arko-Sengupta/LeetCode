@@ -36,7 +36,6 @@ Welcome to LeetCode Solution Repository!
 - Problem 3  [Link to Problem](Hard/problem3_solution.py)
 - Problem 4  [Link to Problem](Hard/problem4_solution.py)
 - Problem 5  [Link to Problem](Hard/problem5_solution.py)
-- Problem 6  [Link to Problem](Hard/problem6_solution.py)
 
 ## 4. Weekly Contests
 **Weekly LeetCode Contests Solutions**
